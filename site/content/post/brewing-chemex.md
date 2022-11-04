@@ -12,6 +12,10 @@ This [week](/wdwdw) we’ll **take** a look at all the steps required to make as
 
 In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
 
+
+
+![](img/테스트이미지1.png)
+
 ## The little secrets of Chemex brewing
 
 The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
@@ -20,6 +24,8 @@ The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conica
 2. Use a scale, don’t try to eyeball it.
 3. Never skip preheating the glass.
 4. Timing is key, don’t forget the clock.
+
+![](img/테스트이미지2.png)
 
 ![](img/about-single-origin.jpg)
 
